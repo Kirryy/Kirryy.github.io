@@ -51,15 +51,15 @@ layout: base
           {% endfor %}
         </div>
       {% endif %} -->
-
+      {% capture words %}
+        {{ page.content | number_of_words }}
+      {% endcapture %}
       {% if page.after-content %}
         <div class="after-content">
           {% for file in page.after-content %}
             {% include {{ file }} %}
           {% endfor %}
-          {% capture words %}
-            {{ page.content | number_of_words }}
-          {% endcapture %}
+          
         </div>
       {% endif %}
 
