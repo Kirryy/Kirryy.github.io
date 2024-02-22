@@ -41,7 +41,7 @@ layout: base
 
       <div class="blog-post">
         {{ content }}
-        {{ page.content | number_of_words }}
+        Anzahl Wörter: {{ page.content | number_of_words }}
       </div>
 
       <!-- {% if page.tags.size > 0 %}

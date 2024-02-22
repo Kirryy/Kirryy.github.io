@@ -19,10 +19,16 @@ Zu Beginn wurden die Lerninhalte des Moduls besprochen und Fragen diesbezüglich
 **Lernunterlagen / Literatur:** [Skript Bibliotheks- und Archivinformatik](https://github.com/felixlohmeier/bibliotheks-und-archivinformatik)
 
 # Organisatorisches
-TBC
+Als nächstes wurden organisatorische Punkte angesprochen wie die Kurstermine und Uhrzeiten, sowie der Leistungsnachweis. Dieser besteht aus diesem Blog und hat zusammengefasst folgende Vorgaben zu erfüllen. 
+- Zu jeder Lerneinheit wird ein Blogeintrag erstellt
+- Jeder Blogeintrag, welche eine Lerneinheit umfasst, besteht aus 3000 - 4000 Zeichen
+- Jeder Blogeintrag, welche eine Übung umfasst, besteht aus 1000 - 2000 Zeichen 
+- Abgabedatum ist der **7. Juli 2024**
 
-# Vorstellungsrunde 
-TBC
+
+Es wurde geraten diese Blogeinträge gleich tags darauf zu schreiben und hochzuladen. Ich war persönlich zu Beginn den Blogeinträgen und dem Lerntagebuch noch etwas skeptisch gegenüber eingestellt. Dies kam daher, da ich vor Beginn der Veranstalltung nicht wusste, wie viel hier verlangt wird und ob es 'nur' als Zusammenfassung der Lektion in eigenen Worten dienen würde oder mehr. 
+Da wir hier allerdings auch mehr machen können, wie etwa unsere eigenen Gedanken, Schwierigkeiten und gefundene Lösungen einzutragen, empfand ich diese Art von Leistungsnachweis dennoch schnell als interessant und abwechslungsreich. 
+ 
 
 # Arbeitsumgebung und erste Übungen
-TBC
+Anschliessend wurde noch die Arbeitsumgebung mit den github Codespaces vorgestellt, sowie gezeigt wie eine Blogseite mit github pages und jekyll aussehen könnte. Da ich zuvor weder Jekyll noch die Github Codespaces jemals verwendet habe, fand ich dieses Thema sehr interessant. Gerade die Möglichkeiten, welche sich mit den Github pages und Jekyll Themes bieten, machten es für mich allerdings wieder schwierig auf die Hauptaufgabe des eigentlichen Blogs zu konzentrieren und nicht zu viel Zeit aufzuwenden für die Recherche, wie solche Templates selbst gemacht und manipuliert werden können. Dennoch fand ich mich schnell einmal motiviert einige Templates auszuprobieren und abzuändern, wobei ich selbst auch wieder an Probleme stiess. 
