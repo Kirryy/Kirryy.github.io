@@ -41,7 +41,9 @@ layout: base
 
       <div class="blog-post">
         {{ content }}
-        <!-- Anzahl Zeichen: {{ content.size }} -->
+        
+        {{ string_with_newlines | newline_to_br }}
+        Anzahl Zeichen: {{ page.content | size }}
       </div>
 
       <!-- {% if page.tags.size > 0 %}
