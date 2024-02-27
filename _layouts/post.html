@@ -41,6 +41,7 @@ layout: base
 
       <div class="blog-post">
         {{ content }}
+        
         {{ string_with_newlines | newline_to_br }}
         Anzahl Zeichen: {{ page.content | size }}
       </div>
